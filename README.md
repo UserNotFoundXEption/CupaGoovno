@@ -6,7 +6,6 @@ CupaGoovno is a Cuphead mod providing some major changes to the game, increasing
 - All content is subject to change but the 2 bosses should be basically the same in v1.0.
 
 ## Key notes
-CupaGoovno mod provides some major changes to a few features:
 - **Smoke Bomb charm** no longer works. Instead, choosing this charm activates "Practise Mode", giving you 9 health point at the start of the battle and multiplying damage you deal by 5.
 - **Chalice** deals 25% less damage.
 - **Difficulty selection screen** allows you to choose only 1 difficulty level.
