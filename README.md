@@ -13,3 +13,7 @@ CupaGoovno is a Cuphead mod providing some major changes to the game, increasing
 ## Known Issues
 - Launching Cuphead in language other than English or changing the laungage mid-game will break difficulty selection screen. You'll see default difficulty modes names and be stuck on "normal". This bug is purely visual. All bosses launch in "hard" difficulty mode.
 - Cagney Carnation (Flower boss) uses only 1 attack. It will be fixed in full version.
+
+## Installation
+- Use newest Cuphead version
+- Tutorial: https://youtu.be/thTwoalrep8
