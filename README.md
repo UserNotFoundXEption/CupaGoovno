@@ -1,4 +1,4 @@
-CupaGoovno is a Cuphead mod providing some major changes to the game, increasing its difficulty level in a more creative way than just increasing bosses health and speed in a slightly different way. Currently it's still in development and only demo version is available. Version v1.0 with base game content (no DLC island) will be ready no sooner than in September.
+CupaGoovno is a Cuphead mod providing some major changes to the game, increasing its difficulty level in a more creative way than just increasing bosses health and speed in a slightly different way. Currently it's still in development and only demo version is available. Version v1.0 with base game content (no DLC island) should be ready by the end of 2024.
 
 ## Demo
 - Demo changes 2 bosses: The Root Pack (Vegetables) and Goopy Le Grande (Blue Slime).
