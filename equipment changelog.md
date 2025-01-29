@@ -1,0 +1,89 @@
+## CupaGoovno equipment changelog
+
+### Weapons
+- Crackshot
+    - Deals low damage but Ex shoots infinitely. Use it when there's a safe space to place it and your other weapon can handle everything.
+    - Basic
+        - Uncracked damage: 10.56 ➔ 5
+        - Cracked damage: 6.7 ➔ 2
+    - Ex
+        - Damage: 3.5 ➔ 1.5
+        - Shot number: 5 ➔ A lot
+- Twist-Up
+    - Adjusts projectiles trajectory to make to more reliable.
+    - Basic
+        - Damage: 2.33 ➔ 2.75
+        - Vertical speed: 630, 819, 945 ➔ -210, 273, 31
+- Chaser
+    - Much lower damage but better homing. More but weaker Ex projectiles. Second Ex destroys projectiles of the previous one.
+    - Basic
+        - Damage: 2.85 ➔ 1.5
+        - Rotation speed: (0, 500) ➔ (0, 2137)
+    - Ex
+        - Damage: 7 ➔ 5
+        - Bullet count ➔ 4 ➔ 10
+- Converge
+    - Increased maximum angle. Equal opening and closing speed.
+    - Basic
+        - Angle range: (8, 50) ➔ (8, 135)
+        - Opening time: 1.8 ➔ 1
+        - Closing time: 1.1 ➔ 1
+- Peashooter
+    - Low Basic damage but high Ex damage.
+    - Basic
+        - Damage: 4 ➔ 2
+    - Ex
+        - Damage: 8.334 ➔ 12
+        - Max damage: 25 ➔ 35
+- Charger
+    - Basic
+        - Full charge damage: 46 ➔ 40
+- Plane bomb
+    - Lower Ex damage but much better homing.
+    - Ex
+        - Damage: 6 ➔ 4
+        - Rotation speed: (0, 250) ➔ (250, 500)
+
+### Supers
+- Cuphead Super 1:
+    - Deals damage instantly for quick supermeter burn but deals lower total damage.
+    - Damage: 14.5 ➔ 75
+    - Time: 1.25 ➔ 0.1
+    - Total damage: 87 ➔ 75
+- Cuphead Super 3:
+    - High initial speed but slows down drastically after a while. You can set it up in 1 place and let it do the job. Higher attack delay but higher damage so you can't use it to slow down and cheese bosses.
+    - Initial speed: 700 ➔ 2137
+    - Final speed: 1250 ➔ 50
+    - Initial speed time: 1.8 ➔ 0.5
+    - Acceleration time: 1 ➔ 2
+    - Damage: 5.1 ➔ 69
+    - Damage delay: 0.22 ➔ 2.2
+
+### Charms
+- Fury Heart (Replaces Heart)
+    - Start with 1 health but increase damage by 1% with each second.
+- Practise Mode (Replaces Smoke Bomb)
+    - Infinite health and 5 times more damage.
+    - Can use Ex whenever you want but it deals no damage.
+- Parry Sugar
+    - All parries are automatic as long as you're in the air.
+    - Increases Supermeter gain from parrying by 40%.
+- Cursed Heart (Replaces Twin Hear)
+    - Taking damage fill your super meter and activates Super if you have one.
+- Whetstone
+    - Damage: 16 ➔ 25
+    - Gives 0.1 card per attack parry.
+- Astral Cookie
+    - 25% damage reduction.
+    - No roll invurnerability.
+- Relic
+    - Reworked to be a new challenge.
+    - Gives 1 health for each 5 parries without limit.
+    - Increases [REDACTED] by 20%.
+- Heart ring
+    - Gives 1 health for each 3 parries without limit.
+    - Parries don't boost Supermeter.
+    - Decreases damage by 5% per parry.
+- Casual mode
+    - Start with 30 health.
+    - Whetstone included.
