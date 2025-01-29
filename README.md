@@ -5,7 +5,7 @@ CupaGoovno is a Cuphead mod providing major changes to the game, increasing its 
 ## Key features
 - Major changes to all non-DLC bosses.
 - Rebalances and reworks for equipment.
-    - See full equipment changelog here: TO BE ADDED
+    - See full equipment changelog here: https://github.com/UserNotFoundXEption/CupaGoovno/blob/main/equipment%20changelog.md
 - Practise Mode charm.
     - Allows you to quickly skip phases and go to the one you need to practise.
 - Casual Mode charm.
@@ -13,6 +13,7 @@ CupaGoovno is a Cuphead mod providing major changes to the game, increasing its 
 - Relic reworked to be a new challenge mode.
 - Other new charms.
 - Quality of Life changes.
+      - See full quality of life changelog here: https://github.com/UserNotFoundXEption/CupaGoovno/blob/main/quality%20of%20life%20changelog.md
 
 ---
 
