@@ -1,7 +1,5 @@
 CupaGoovno is a Cuphead mod providing major changes to the game, increasing its difficulty level by giving bosses new attacks and altering existing ones. It also introduces balance changes to some items and adds some new charms.
 
----
-
 ## Key features
 - Major changes to all non-DLC bosses.
 - Rebalances and reworks for equipment.
@@ -15,14 +13,10 @@ CupaGoovno is a Cuphead mod providing major changes to the game, increasing its 
 - Quality of Life changes.
     - See full quality of life changelog here: https://github.com/UserNotFoundXEption/CupaGoovno/blob/main/quality%20of%20life%20changelog.md
 
----
-
 ## Key notes
 - The mod is balanced with Cuphead/Mugman players in mind. Playing as a Chalice will be unbalanced.
 - Playing in co-op might cause some unexpected bugs as the mod doesn't fully support multiplayer. 
 - The mod will receive minor updates based on your feedback to further enhance your experience.
-
----
 
 ## Known Issues
 - Loading into some levels might take longer and you can sometimes see other levels loading in-between. In most cases it happens only once per boss in the same game session.
@@ -31,8 +25,6 @@ CupaGoovno is a Cuphead mod providing major changes to the game, increasing its 
 - Health HUD will say "DEAD" if you have more than 9 health (e.g. in Casual Mode).
 - I left a minor bug in Wally (the Bird) fight to see if you can find it.
 - Your skill issue.
-
----
 
 ## What next?
 ### CupaGoovno v1.1
@@ -49,8 +41,6 @@ CupaGoovno is a Cuphead mod providing major changes to the game, increasing its 
 - ETA: Summer 2025
 ### What about other vanilla content?
 Based on my estimations this mod took me about 500 hours to make. That is 7 months of modding at least 2 hours a day on average. After v2.0 I'm probably going to be sick of this game and move on to other projects. Maybe one day I will mod DLC bosses and other vanilla content but for now I find it unlikely.
-
----
 
 ## Installation
 - Use the newest Cuphead version.
