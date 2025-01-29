@@ -13,7 +13,7 @@ CupaGoovno is a Cuphead mod providing major changes to the game, increasing its 
 - Relic reworked to be a new challenge mode.
 - Other new charms.
 - Quality of Life changes.
-      - See full quality of life changelog here: https://github.com/UserNotFoundXEption/CupaGoovno/blob/main/quality%20of%20life%20changelog.md
+    - See full quality of life changelog here: https://github.com/UserNotFoundXEption/CupaGoovno/blob/main/quality%20of%20life%20changelog.md
 
 ---
 
