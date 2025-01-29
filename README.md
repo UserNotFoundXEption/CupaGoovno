@@ -55,4 +55,4 @@ Based on my estimations this mod took me about 500 hours to make. That is 7 mont
 ## Installation
 - Use the newest Cuphead version.
 - Unpack all files in the main game folder.
-- Tutorial: TO BE ADDED
+- Tutorial: https://youtu.be/fuuv8RbJSDc
