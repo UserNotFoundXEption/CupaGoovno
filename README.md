@@ -9,7 +9,7 @@ CupaGoovno is a Cuphead mod providing major changes to the game, increasing its 
 - Practise Mode charm.
     - Allows you to quickly skip phases and go to the one you need to practise.
 - Casual Mode charm.
-    - Giving you a massive health boost so you can enjoy the mod even if you're not a skilled player. Go down in the charm menu to find it. If it's not there, try to leave to main menu and re-enter your save.
+    - Gives you a massive health boost so you can enjoy the mod even if you're not a skilled player. Go down in the charm menu to find it. If it's not there, try to leave to main menu and re-enter your save.
 - Relic reworked to be a new challenge mode.
 - Other new charms.
 - Quality of Life changes.
