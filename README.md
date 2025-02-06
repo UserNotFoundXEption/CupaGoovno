@@ -14,9 +14,12 @@ CupaGoovno is a Cuphead mod providing major changes to the game, increasing its 
     - See full quality of life changelog here: https://github.com/UserNotFoundXEption/CupaGoovno/blob/main/quality%20of%20life%20changelog.md
 
 ## Key notes
-- The mod is balanced with Cuphead/Mugman players in mind. Playing as a Chalice will be unbalanced.
+- The mod is balanced with maxed-out Cuphead/Mugman players in mind. Playing as a Chalice will be unbalanced.
 - Playing in co-op might cause some unexpected bugs as the mod doesn't fully support multiplayer. 
 - The mod will receive minor updates based on your feedback to further enhance your experience.
+    - If you encounter an issue, please describe it in detail and send your LogOutput.log file from Cuphead/BepInEx/ folder.
+- Most likely not compatible with most mods. Use only this one.
+- Some parryable projectiles don't fill supermeter.
 
 ## Known Issues
 - Loading into some levels might take longer and you can sometimes see other levels loading in-between. In most cases it happens only once per boss in the same game session.
@@ -24,13 +27,13 @@ CupaGoovno is a Cuphead mod providing major changes to the game, increasing its 
 - Custom translations for languages other than English and Polish are made by ChatGPT. Some of them might be incorrect.
 - Health HUD will say "DEAD" if you have more than 9 health (e.g. in Casual Mode).
 - I left a minor bug in Wally (the Bird) fight to see if you can find it.
+- If you parry Djimmi's (Genie) rings in the last phase at a certain angle you won't receive supermeter boost.
 - Your skill issue.
 
-## What next?
-### CupaGoovno v1.1
-- More variety in Dr. Kahl's Robot new "Space Invaders" phase.
+## What's next?
+### CupaGoovno v1.2
 - Fixes and changes based on your feedback.
-- ETA: February 2025.
+- ETA: When I gather enough feedback.
 ### CupaGoovno v2.0 - A new level of Cuphead modding
 - Custom charms and weapons introducing brand-new game mechanics.
 - Custom achievements unlocking charms and weapons mentioned above.

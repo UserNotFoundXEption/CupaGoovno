@@ -28,8 +28,8 @@
         - Angle range: (8, 50) ➔ (8, 135)
         - Opening time: 1.8 ➔ 1
         - Closing time: 1.1 ➔ 1
-- Peashooter
-    - Low Basic damage but high Ex damage.
+- Striker
+    - Peashooter's coursing with low Basic damage but high Ex damage.
     - Basic
         - Damage: 4 ➔ 2
     - Ex
