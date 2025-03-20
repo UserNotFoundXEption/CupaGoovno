@@ -31,7 +31,7 @@ CupaGoovno is a Cuphead mod providing major changes to the game, increasing its 
 - Your skill issue.
 
 ## What's next?
-### CupaGoovno v1.2
+### CupaGoovno v1.3
 - Fixes and changes based on your feedback.
 - ETA: When I gather enough feedback.
 ### CupaGoovno v2.0 - A new level of Cuphead modding
