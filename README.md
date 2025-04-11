@@ -4,12 +4,9 @@ CupaGoovno is a Cuphead mod providing major changes to the game, increasing its 
 - Major changes to all non-DLC bosses.
 - Rebalances and reworks for equipment.
     - See full equipment changelog here: https://github.com/UserNotFoundXEption/CupaGoovno/blob/main/equipment%20changelog.md
-- Practise Mode charm.
-    - Allows you to quickly skip phases and go to the one you need to practise.
-- Casual Mode charm.
-    - Gives you a massive health boost so you can enjoy the mod even if you're not a skilled player. Go down in the charm menu to find it. If it's not there, try to leave to main menu and re-enter your save.
+- Practise Mode and Casual Mode charms for practising and casual players.
+- New charms, weapons and super art.
 - Relic reworked to be a new challenge mode.
-- Other new charms.
 - Quality of Life changes.
     - See full quality of life changelog here: https://github.com/UserNotFoundXEption/CupaGoovno/blob/main/quality%20of%20life%20changelog.md
 
@@ -18,7 +15,7 @@ CupaGoovno is a Cuphead mod providing major changes to the game, increasing its 
 - Playing in co-op might cause some unexpected bugs as the mod doesn't fully support multiplayer. 
 - The mod will receive minor updates based on your feedback to further enhance your experience.
     - If you encounter an issue, please describe it in detail and send your LogOutput.log file from Cuphead/BepInEx/ folder.
-- Most likely not compatible with most mods. Use only this one.
+- Not compatible with most mods. Use only this one.
 - Some parryable projectiles don't fill supermeter.
 
 ## Known Issues
@@ -31,19 +28,19 @@ CupaGoovno is a Cuphead mod providing major changes to the game, increasing its 
 - Your skill issue.
 
 ## What's next?
-### CupaGoovno v1.3
+### CupaGoovno v1.4
 - Fixes and changes based on your feedback.
 - ETA: When I gather enough feedback.
 ### CupaGoovno v2.0 - A new level of Cuphead modding
 - Custom charms and weapons introducing brand-new game mechanics.
 - Custom achievements unlocking charms and weapons mentioned above.
 - A new intelligent boss.
-    - Uses Neural Network and Deep Q-Learning to learn which attacks you struggle with and uses this knowledge to defeat you. In order to prevail you need to learn all his attacks perfectly.
+    - Uses machine learning algorithms to learn which attacks you struggle with and uses this knowledge to defeat you. In order to prevail you need to learn all his attacks perfectly.
     - Gives health regeneration opportunities so you can make more mistakes the boss can learn from.
     - Forgets everything after battle.
 - ETA: Summer 2025
 ### What about other vanilla content?
-Based on my estimations this mod took me about 500 hours to make. That is 7 months of modding at least 2 hours a day on average. After v2.0 I'm probably going to be sick of this game and move on to other projects. Maybe one day I will mod DLC bosses and other vanilla content but for now I find it unlikely.
+Based on my estimations the first version of this mod took me about 500 hours to make. That is 7 months of modding at least 2 hours a day on average. After v2.0 I'm most likely going to move on to other projects. Maybe one day I will mod DLC bosses and other vanilla content but for now I find it unlikely.
 
 ## Installation
 - Use the newest Cuphead version.

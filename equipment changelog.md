@@ -9,10 +9,9 @@
     - Ex
         - Damage: 3.5 ➔ 1.5
         - Shot number: 5 ➔ A lot
-- Twist-Up
-    - Adjusts projectiles trajectory to make to more reliable.
+- Skytickler (NEW)
+    - Twist-up's cousin with adjusted projectiles trajectory to make them fly upwards.
     - Basic
-        - Damage: 2.33 ➔ 2.75
         - Vertical speed: 630, 819, 945 ➔ -210, 273, 31
 - Chaser
     - Much lower damage but better homing. More but weaker Ex projectiles. Second Ex destroys projectiles of the previous one.
@@ -28,7 +27,7 @@
         - Angle range: (8, 50) ➔ (8, 135)
         - Opening time: 1.8 ➔ 1
         - Closing time: 1.1 ➔ 1
-- Striker
+- Striker (NEW)
     - Peashooter's coursing with low Basic damage but high Ex damage.
     - Basic
         - Damage: 4 ➔ 2
@@ -45,12 +44,16 @@
         - Rotation speed: (0, 250) ➔ (250, 500)
 
 ### Supers
-- Cuphead Super 1:
+- Cuphead Super Art 1
     - Deals damage instantly for quick supermeter burn but deals lower total damage.
     - Damage: 14.5 ➔ 75
     - Time: 1.25 ➔ 0.1
     - Total damage: 87 ➔ 75
-- Cuphead Super 3:
+- Cuphead Super Art 2
+    - Can't shoot while it's active. You can still use Whetstone.
+    - Uses only 3 cards. You still have to fill your supermeter to use it.
+    - Time: 4.85 ➔ 3
+- Cuphead Super Art 3
     - High initial speed but slows down drastically after a while. You can set it up in 1 place and let it do the job. Higher attack delay but higher damage so you can't use it to slow down and cheese bosses.
     - Initial speed: 700 ➔ 2137
     - Final speed: 1250 ➔ 50
@@ -58,10 +61,18 @@
     - Acceleration time: 1 ➔ 2
     - Damage: 5.1 ➔ 69
     - Damage delay: 0.22 ➔ 2.2
+- Super Art 4 - Berserker (NEW)
+    - Berserker
+    - Allows you to fire both weapons with fire rate of the currently used one.
+    - Speeds up time by 20%.
+    - Descreses your damage by 25%.
+    - Uses 0.5 card per second.
+    - Doesn't block supermeter gain or Ex usage.
+        - You can use Ex to burn cards if you need to leave the mode fast.
 
 ### Charms
 - Fury Heart (Replaces Heart)
-    - Start with 1 health but increase damage by 1% with each second.
+    - Start with 1 health but increase damage by 2% with each second.
 - Practise Mode (Replaces Smoke Bomb)
     - Infinite health and 5 times more damage.
     - Can use Ex whenever you want but it deals no damage.
