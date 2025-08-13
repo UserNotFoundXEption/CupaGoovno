@@ -1,4 +1,4 @@
-CupaGoovno is a the hardest and most complex Cuphead mod. It alters bosses' attacks, introduces new ones, expands your arsenal with new weapons, charms and super arts, adds a brand-new boss enhanced with mchine learning algorythms and more.
+CupaGoovno is a the hardest and most complex Cuphead mod. It alters bosses' attacks, introduces new ones, expands your arsenal with new weapons, charms and super arts, adds a brand-new boss enhanced with machine learning algorythms and more.
 
 ## Key features
 - Major changes to all non-DLC bosses + Angel and Devil secret boss.
@@ -31,7 +31,7 @@ CupaGoovno is a the hardest and most complex Cuphead mod. It alters bosses' atta
 - Health HUD will say "DEAD" if you have more than 9 health (e.g. in Casual Mode).
 - I left a minor bug in Wally (the Bird) fight to see if you can find it.
 - If you parry Djimmi's (Genie) rings in the last phase at a certain angle you won't receive supermeter boost.
-- Gravity Globe charm won't work properly in run'n'guns.
+- Gravity Globe charm, Super Art VI and Peeshooter's Ex won't work properly in run'n'guns.
 - Peeshooter's Ex may sometimes be obscured by other things.
 - Each new Super Art will increase your save file progress by 2%, exceeding 300%.
 - Your skill issue.

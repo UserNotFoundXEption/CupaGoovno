@@ -2,7 +2,7 @@
 It's a simple documentation meant to be read and understood by regular players. It describes how does the boss work without getting into details of learning algorythms.
 
 ## Attacks
-For balance reasons, attacks are divided into main and support. The boss uses attacks in pairs of 1 main and 1 support. Each attack has parameters changing its behaviour and a general parameter blancing them. E.g. if parameter X has multiplier (1, 2) and parameter Y has divider (1, 3) then general parameter of 0.8 will multiply X by 1.8 and divide Y by 2.6. 
+For balance reasons, attacks are divided into main and support. The boss uses attacks in pairs of 1 main and 1 support. Each attack has parameters changing its behaviour and a general parameter balancing them. E.g. if parameter X has multiplier (1, 2) and parameter Y has divider (1, 3) then general parameter of 0.8 will multiply X by 1.8 and divide Y by 2.6. 
 - Main
     - Laser
         - Fires lasers from eyes. If the laser hits the left wall, it spawns sparks. The angle at which spark will fire is in the middle between laser and the wall. One eye aims at you and the other one fires randomly.
@@ -12,7 +12,7 @@ For balance reasons, attacks are divided into main and support. The boss uses at
         - Laser duration: 0.3.
             - Multiplier: (0.5, 3).
     - Giant stone
-        - Rolls from left to right, spawning 2 prryble birds helping you jump over it. You can also damage it to make it smaller.
+        - Rolls from left to right, spawning 2 parryable birds helping you jump over it. You can also damage it to make it smaller.
         - Health: 300.
             - Divider: (0.666, 2).
         - Size multiplier: (0.8, 1.4).
@@ -38,9 +38,9 @@ For balance reasons, attacks are divided into main and support. The boss uses at
             - Divider: (0.666, 1.666).
 - Support
     - Pollen
-        - Spawns slowly falling projectiles in some x axis range.
+        - Spawns slowly falling projectiles in some x-axis range.
         - X range span: 350 (screen width is 720).
-            - Bonus: (0, 500).
+            - Shift: (0, 500).
     - Spikes
         - Spawns 3 spikes from the ground. Damage makes them hide a bit or completely disappear.
         - Health: 80.
@@ -58,7 +58,7 @@ For balance reasons, attacks are divided into main and support. The boss uses at
         - Count: 5.
         - Gravity multiplier: (0.5, 2).
     - Baseball
-        - Enemy swinging basebll bat on top of the screen. Damage makes him hide a bit or completely disappear.
+        - Enemy swinging baseball bat on top of the screen. Damage makes him hide a bit or completely disappear.
         - Health: 50.
             - Divider: (0.5, 2).
         - Speed multiplier: (0.5, 2).
@@ -68,6 +68,7 @@ Every 2-4 attacks the boss will spawn a heart. Parry it to heal.
 
 ## Hitboxes
 The green lines are hitboxes. Most of them are circles and rectangles but the are a few polygon ones.
+
 ![](hitbox_moai.png)
 ![](hitbox_laser.png)
 ![](hitbox_spark.png)
@@ -85,16 +86,18 @@ The green lines are hitboxes. Most of them are circles and rectangles but the ar
 ![](hitbox_heart.png)
 
 ## Choosing attacks
-Moai uses Q-Learning algorythm and Softmax function to create and update a table containing chances to use each attack. Example table update after failed rockets + baseball attack:
+Moai uses Q-Learning algorythm and Softmax function to create and update a table containing chances to use each attack. Example table update after a failed rockets + baseball attack:
+
 ![](learning_table_update.png)
 
 Reward is based on how much damage did the boss take, did it spawn a heart, did player heal and did they receive damage.
 
-Reward = 2000 * △PlayerHP - △MoaiHP.
-△ - Difference in value after an attack.
+Reward = 2000 * △PlayerHP - △MoaiHP.  
+△ - Difference in value after an attack.  
 If the heart has spawned, additional 1000 is added to the reward.
 
 Then the reward is scaled so it's never too big: scaledReward = 650 * tanh(reward / 650).
+
 ![](reward_scaling.png)
 
 Q-Learning creates a table of expected rewards for each attack which is used by Softmax function to create the chances table.
@@ -106,7 +109,7 @@ Moai uses REINFORCE algorythm to sample general parameter from beta distribution
 
 ![](beta2.png)
 
-In very simple words - If 0.1 turns out successful, it will increse the chance of choosing low values.
+In very simple words - If 0.1 turns out successful, it will increase the chance of choosing low values.
 
 You can view MoaiLearningLog.csv in the main game folder to see how it worked for you.
 

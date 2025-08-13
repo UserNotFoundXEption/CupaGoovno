@@ -9,10 +9,6 @@
         - Doesn't break on enemy contact.
         - Damage: 3.5 ➔ 1.5.
         - Shot number: 5 ➔ Infinite.
-- Skytickler (NEW)
-    - Twist-up's cousin with adjusted projectiles trajectory to make them fly upwards.
-    - Basic
-        - Vertical speed: 630, 819, 945 ➔ -210, 273, 31.
 - Chaser
     - Basic
         - Projectiles follow cursor that you can move while holding Lock/Aim key.
@@ -28,13 +24,6 @@
         - Angle range: (8, 50) ➔ (8, 135).
         - Opening time: 1.8 ➔ 20.
         - Closing time: 1.1 ➔ 1.
-- Striker (NEW)
-    - Peashooter's coursing with low Basic damage but high Ex damage.
-    - Basic
-        - Damage: 4 ➔ 2.
-    - Ex
-        - Damage: 8.334 ➔ 12.
-        - Max damage: 25 ➔ 35.
 - Charger
     - Basic
         - Doesn't stop charging after dash.
@@ -45,6 +34,17 @@
         - Max homing time: 2.5 ➔ 10. 
         - Damage: 6 ➔ 5.
         - Rotation speed: (0, 250) ➔ (250, 500).
+- Striker (NEW)
+    - Peashooter's cousin with low Basic damage but high Ex damage.
+    - Basic
+        - Damage: 4 ➔ 2.
+    - Ex
+        - Damage: 8.334 ➔ 15.
+        - Max damage: 25 ➔ 50.
+- Skytickler (NEW)
+    - Twist-up's cousin with adjusted projectiles trajectory to make them fly upwards.
+    - Basic
+        - Vertical speed: 630, 819, 945 ➔ -210, 273, 31.
 - Mangetsunami (NEW)
     - Basic:
         - Charged. Fire rate same as Charger.
@@ -52,11 +52,11 @@
             - Damage: 5.
             - Projectiles: 1.
         - Charged:
-            - Bounces off screen, increasing its damage.
-            - Bounces: 2.
-            - Damage multiplier per bounce: 1.5.
             - Damage: 15.
             - Projectiles: 3.
+            - Projectiles bounce off screen, increasing their damage.
+            - Max bounces: 2.
+            - Damage multiplier per bounce: 1.5.
     - Ex:
         - Dash into Ex to boost its speed and damage.
         - Damage: 25.
@@ -67,7 +67,7 @@
         - Damage: 2.
         - Supermeter multiplier: 5.
     - Ex:
-        - Spawns a puddle, boosting your supermeter gain for the other weapon as long as you're standing in it.
+        - Spawns a puddle, doubling your supermeter gain for the other weapon as long as you're standing in it.
         - Duration: 15 seconds.
 
 ### Supers
@@ -85,7 +85,7 @@
     - Initial speed: 700 ➔ 2137.
     - Final speed: 1250 ➔ 50.
     - Initial speed time: 1.8 ➔ 0.5.
-    - Acceleration time: 1 ➔ 2.
+    - Slowdown time: 1 ➔ 2.
     - Damage: 5.1 ➔ 69.
     - Damage delay: 0.22 ➔ 2.2.
 - Super Art 4 - Berserker (NEW)
@@ -94,7 +94,6 @@
     - Descreses your damage by 25%.
     - Uses 0.5 card per second.
     - Doesn't block supermeter gain or Ex usage.
-        - You can use Ex to burn cards if you need to leave the mode fast.
 - Super Art 5 - Sandevistan (NEW)
     - Slows down everything except you by 70%.
     - Dealing damage depletes supermeter faster.
@@ -109,12 +108,12 @@
     - Start with 1 health but increase damage by 2% with each second.
 - Practise Mode (Replaces Smoke Bomb)
     - Infinite health and 5 times more damage.
-    - Can use Ex whenever you want but it deals no damage.
+    - You can use Ex whenever you want but it deals no damage.
 - Parry Sugar
     - All parries are automatic as long as you're in the air.
     - Increases supermeter gain from parrying by 40%.
 - Cursed Heart (Replaces Twin Hear)
-    - Taking damage fill your super meter and activates Super Art if you have one.
+    - Taking damage fills your super meter and activates Super Art if you have one.
 - Whetstone
     - Damage: 16 ➔ 25.
     - Gives 0.1 card per attack parry.
@@ -124,12 +123,12 @@
 - Relic
     - Reworked to be a new challenge.
     - Gives 1 health for each 5 parries without limit.
-    - Increases [REDACTED] by 20%.
     - Parries don't fill supermeter.
+    - Increases [REDACTED] by 20%.
 - Heart ring
     - Gives 1 health for each 3 parries without limit.
-    - Parries don't fill supermeter.
     - Decreases damage by 3% per parry.
+    - Parries don't fill supermeter.
 - Casual mode
     - Start with 30 health.
     - Whetstone included.

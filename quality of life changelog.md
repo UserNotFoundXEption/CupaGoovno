@@ -8,4 +8,4 @@
     - Disabled in the following boss battles: Veggies, Clown, Dragon, Mouse, Train, Cigar, Devil.
     - You can disable it in options.
 - Practise Mode for easier practising (see equipment changelog)
-- Casual Mode for less-skilled players (see equipment changelog)
+- Casual Mode for less skilled players (see equipment changelog)
