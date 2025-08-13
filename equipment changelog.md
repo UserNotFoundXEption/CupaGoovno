@@ -2,73 +2,107 @@
 
 ### Weapons
 - Crackshot
-    - Deals low damage but Ex shoots infinitely. Use it when there's a safe space to place it and your other weapon can handle everything.
     - Basic
-        - Uncracked damage: 10.56 ➔ 5
-        - Cracked damage: 6.7 ➔ 2
+        - Uncracked damage: 10.56 ➔ 5.
+        - Cracked damage: 6.7 ➔ 2.
     - Ex
-        - Damage: 3.5 ➔ 1.5
-        - Shot number: 5 ➔ A lot
+        - Doesn't break on enemy contact.
+        - Damage: 3.5 ➔ 1.5.
+        - Shot number: 5 ➔ Infinite.
 - Skytickler (NEW)
     - Twist-up's cousin with adjusted projectiles trajectory to make them fly upwards.
     - Basic
-        - Vertical speed: 630, 819, 945 ➔ -210, 273, 31
+        - Vertical speed: 630, 819, 945 ➔ -210, 273, 31.
 - Chaser
-    - Much lower damage but better homing. More but weaker Ex projectiles. Second Ex destroys projectiles of the previous one.
     - Basic
-        - Damage: 2.85 ➔ 1.5
-        - Rotation speed: (0, 500) ➔ (0, 2137)
+        - Projectiles follow cursor that you can move while holding Lock/Aim key.
+        - Damage: 2.85 ➔ 2.
+        - Rotation speed: (0, 500) ➔ (0, 2137).
     - Ex
-        - Damage: 7 ➔ 5
-        - Bullet count ➔ 4 ➔ 10
+        - Second Ex destroys projectiles of the previous one.
+        - Damage: 7 ➔ 5.
+        - Bullet count: 4 ➔ 10.
+        - Rotation radius: 100 ➔ 250.
 - Converge
-    - Increased maximum angle. Equal opening and closing speed.
     - Basic
-        - Angle range: (8, 50) ➔ (8, 135)
-        - Opening time: 1.8 ➔ 1
-        - Closing time: 1.1 ➔ 1
+        - Angle range: (8, 50) ➔ (8, 135).
+        - Opening time: 1.8 ➔ 20.
+        - Closing time: 1.1 ➔ 1.
 - Striker (NEW)
     - Peashooter's coursing with low Basic damage but high Ex damage.
     - Basic
-        - Damage: 4 ➔ 2
+        - Damage: 4 ➔ 2.
     - Ex
-        - Damage: 8.334 ➔ 12
-        - Max damage: 25 ➔ 35
+        - Damage: 8.334 ➔ 12.
+        - Max damage: 25 ➔ 35.
 - Charger
     - Basic
-        - Full charge damage: 46 ➔ 40
+        - Doesn't stop charging after dash.
+        - Full charge damage: 46 ➔ 40.
 - Plane bomb
-    - Lower Ex damage but much better homing.
     - Ex
-        - Damage: 6 ➔ 4
-        - Rotation speed: (0, 250) ➔ (250, 500)
+        - Projectiles follow cursor that you can move while holding Lock/Aim key.
+        - Max homing time: 2.5 ➔ 10. 
+        - Damage: 6 ➔ 5.
+        - Rotation speed: (0, 250) ➔ (250, 500).
+- Mangetsunami (NEW)
+    - Basic:
+        - Charged. Fire rate same as Charger.
+        - Uncharged:
+            - Damage: 5.
+            - Projectiles: 1.
+        - Charged:
+            - Bounces off screen, increasing its damage.
+            - Bounces: 2.
+            - Damage multiplier per bounce: 1.5.
+            - Damage: 15.
+            - Projectiles: 3.
+    - Ex:
+        - Dash into Ex to boost its speed and damage.
+        - Damage: 25.
+        - Damage after dash: 50.
+- Peeshooter (NEW)
+    - Basic:
+        - Deals low damage but fills your supermeter much faster.
+        - Damage: 2.
+        - Supermeter multiplier: 5.
+    - Ex:
+        - Spawns a puddle, boosting your supermeter gain for the other weapon as long as you're standing in it.
+        - Duration: 15 seconds.
 
 ### Supers
 - Cuphead Super Art 1
     - Deals damage instantly for quick supermeter burn but deals lower total damage.
-    - Damage: 14.5 ➔ 75
-    - Time: 1.25 ➔ 0.1
-    - Total damage: 87 ➔ 75
+    - Damage: 14.5 ➔ 75.
+    - Time: 1.25 ➔ 0.1.
+    - Total damage: 87 ➔ 75.
 - Cuphead Super Art 2
     - Can't shoot while it's active. You can still use Whetstone.
     - Uses only 3 cards. You still have to fill your supermeter to use it.
-    - Time: 4.85 ➔ 3
+    - Time: 4.85 ➔ 3.
 - Cuphead Super Art 3
     - High initial speed but slows down drastically after a while. You can set it up in 1 place and let it do the job. Higher attack delay but higher damage so you can't use it to slow down and cheese bosses.
-    - Initial speed: 700 ➔ 2137
-    - Final speed: 1250 ➔ 50
-    - Initial speed time: 1.8 ➔ 0.5
-    - Acceleration time: 1 ➔ 2
-    - Damage: 5.1 ➔ 69
-    - Damage delay: 0.22 ➔ 2.2
+    - Initial speed: 700 ➔ 2137.
+    - Final speed: 1250 ➔ 50.
+    - Initial speed time: 1.8 ➔ 0.5.
+    - Acceleration time: 1 ➔ 2.
+    - Damage: 5.1 ➔ 69.
+    - Damage delay: 0.22 ➔ 2.2.
 - Super Art 4 - Berserker (NEW)
-    - Berserker
     - Allows you to fire both weapons with fire rate of the currently used one.
     - Speeds up time by 20%.
     - Descreses your damage by 25%.
     - Uses 0.5 card per second.
     - Doesn't block supermeter gain or Ex usage.
         - You can use Ex to burn cards if you need to leave the mode fast.
+- Super Art 5 - Sandevistan (NEW)
+    - Slows down everything except you by 70%.
+    - Dealing damage depletes supermeter faster.
+    - Max duration: 25 seconds.
+    - Max duration in run'n'guns: 5 seconds.
+    - Max damage: 150.
+- Super Art 6 - Boo Fist (NEW)
+    - Summons a giant ghost fist that will destroy up to 10 enemy projectiles.
 
 ### Charms
 - Fury Heart (Replaces Heart)
@@ -78,11 +112,11 @@
     - Can use Ex whenever you want but it deals no damage.
 - Parry Sugar
     - All parries are automatic as long as you're in the air.
-    - Increases Supermeter gain from parrying by 40%.
+    - Increases supermeter gain from parrying by 40%.
 - Cursed Heart (Replaces Twin Hear)
-    - Taking damage fill your super meter and activates Super if you have one.
+    - Taking damage fill your super meter and activates Super Art if you have one.
 - Whetstone
-    - Damage: 16 ➔ 25
+    - Damage: 16 ➔ 25.
     - Gives 0.1 card per attack parry.
 - Astral Cookie
     - 25% damage reduction.
@@ -91,10 +125,19 @@
     - Reworked to be a new challenge.
     - Gives 1 health for each 5 parries without limit.
     - Increases [REDACTED] by 20%.
+    - Parries don't fill supermeter.
 - Heart ring
     - Gives 1 health for each 3 parries without limit.
-    - Parries don't boost Supermeter.
-    - Decreases damage by 5% per parry.
+    - Parries don't fill supermeter.
+    - Decreases damage by 3% per parry.
 - Casual mode
     - Start with 30 health.
     - Whetstone included.
+- Balanced Blade (NEW)
+    - Dealing damage decreases current weapon's damage but boosts the other one.
+    - Passive damage boost: 20%.
+- Milk Carton (NEW)
+    - Parry to receive milk charge. Use Ex to fire a bonus projectile.
+    - Damage: 50.
+- Gravity Globe (NEW)
+    - Press R on keybord or R3 on most controllers to reverse gravity.
