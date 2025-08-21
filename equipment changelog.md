@@ -68,7 +68,7 @@
         - Supermeter multiplier: 5.
     - Ex:
         - Spawns a puddle, doubling your supermeter gain for the other weapon as long as you're standing in it.
-        - Duration: 15 seconds.
+        - Duration: 30 seconds.
 
 ### Supers
 - Cuphead Super Art 1
