@@ -1,4 +1,4 @@
-CupaGoovno is the hardest and most complex Cuphead mod. It alters bosses' attacks, introduces new ones, expands your arsenal with new weapons, charms and super arts, adds a brand-new boss enhanced with machine learning algorythms, PvP mode and more.
+CupaGoovno is the hardest and most advanced Cuphead mod. It alters bosses' attacks, introduces new ones, expands your arsenal with new weapons, charms and super arts, adds a brand-new boss enhanced with machine learning algorythms, PvP mode and more.
 
 ## Key features
 - Major changes to all non-DLC bosses + Angel and Devil secret boss.
@@ -17,6 +17,7 @@ CupaGoovno is the hardest and most complex Cuphead mod. It alters bosses' attack
     - See full quality of life changelog here: https://github.com/UserNotFoundXEption/CupaGoovno/blob/main/quality%20of%20life%20changelog.md
 
 ## Key notes
+- CupaGoovno Items edition contains items and reworks but is stripped of harder bosses.
 - The mod is balanced with maxed-out Cuphead/Mugman players in mind. Playing as a Chalice will be unbalanced.
 - Playing in co-op might cause some unexpected bugs as the mod doesn't fully support multiplayer. 
 - The mod will receive minor updates based on your feedback to further enhance your experience.
